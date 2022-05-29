@@ -18,8 +18,14 @@ app.get('/doi',(req,res)=>{
     rand=Math.floor(rand*diff);
     rand=rand+min;
     var x=""+rand;
-    var st='{"src":'+'"'+imp[0][x]+'"}';
-    res.send(st);
+    // var st='{"src":'+'"'++'"}';
+    res.send(
+        [
+            {
+                "src":imp[0][x]
+            }
+        ]
+    );
 });
 
 app.listen(port);
