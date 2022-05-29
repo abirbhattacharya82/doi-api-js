@@ -8,7 +8,15 @@ app.get('/',(req,res)=>{
 });
 
 app.get('/doi',(req,res)=>{
-    res.send(imp);
+    // console.log(imp);
+    var min=1;
+    var max=12;
+    var diff=max-min;
+    var rand=Math.random();
+    rand=Math.floor(rand*diff);
+    rand=rand+min;
+    var x=""+rand;
+    res.send(imp[0][x]);
 });
 
 app.listen(port);

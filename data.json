@@ -1,38 +1,16 @@
 [
     {
-        "img":"https://drive.google.com/file/d/1aTGw0qF5e8k1IXk8U3kVNWVbo8Hx8hQ5/view?usp=sharing"
-    },
-    {
-        "img":"https://drive.google.com/file/d/1Qw_bevpcTi2X5yrMvcP2LydLaWsppAtr/view?usp=sharing"
-    },
-    {
-        "img":"https://drive.google.com/file/d/1UFDULumh2qbgjrToTZ3atuFb971aPBcS/view?usp=sharing"
-    },
-    {
-        "img":"https://drive.google.com/file/d/1qC78GV5wd_WsrMp6cTZhwjjuqYc5I2A6/view?usp=sharing"
-    },
-    {
-        "img":"https://drive.google.com/file/d/1qTRVI7adA7ePoeE9lhE8NdxQMk1mLByP/view?usp=sharing"
-    },
-    {
-        "img":"https://drive.google.com/file/d/17k3fL0oOGhChJXotWh7nUyePqAdX93h_/view?usp=sharing"
-    },
-    {
-        "img":"https://drive.google.com/file/d/1frMlneC1WKo3zfgJ0QW-6itjeK_7vP56/view?usp=sharing"
-    },
-    {
-        "img":"https://drive.google.com/file/d/1BKUGi-Ub5RAjBibNomgF_iRYnMkFTm9s/view?usp=sharing"
-    },
-    {
-        "img":"https://drive.google.com/file/d/1PgOq2rYnopWdh81T_WCCmPd2JZzVjt8m/view?usp=sharing"
-    },
-    {
-        "img":"https://drive.google.com/file/d/1iY-BLpweU6Qs95VVcEavsDPg_c0mHJ3i/view?usp=sharing"
-    },
-    {
-        "img":"https://drive.google.com/file/d/1gW2zro1I50QOI2f42c448F6AhI8T1nje/view?usp=sharing"
-    },
-    {
-        "img":"https://drive.google.com/file/d/1vIJao_n80f5Hqj-NcwVUty_iYqjg--ME/view?usp=sharing"
+        "1":"https://drive.google.com/file/d/1aTGw0qF5e8k1IXk8U3kVNWVbo8Hx8hQ5/view?usp=sharing",
+        "2":"https://drive.google.com/file/d/1Qw_bevpcTi2X5yrMvcP2LydLaWsppAtr/view?usp=sharing",
+        "3":"https://drive.google.com/file/d/1UFDULumh2qbgjrToTZ3atuFb971aPBcS/view?usp=sharing",
+        "4":"https://drive.google.com/file/d/1qC78GV5wd_WsrMp6cTZhwjjuqYc5I2A6/view?usp=sharing",
+        "5":"https://drive.google.com/file/d/1qTRVI7adA7ePoeE9lhE8NdxQMk1mLByP/view?usp=sharing",
+        "6":"https://drive.google.com/file/d/17k3fL0oOGhChJXotWh7nUyePqAdX93h_/view?usp=sharing",
+        "7":"https://drive.google.com/file/d/1frMlneC1WKo3zfgJ0QW-6itjeK_7vP56/view?usp=sharing",
+        "8":"https://drive.google.com/file/d/1BKUGi-Ub5RAjBibNomgF_iRYnMkFTm9s/view?usp=sharing",
+        "9":"https://drive.google.com/file/d/1PgOq2rYnopWdh81T_WCCmPd2JZzVjt8m/view?usp=sharing",
+        "10":"https://drive.google.com/file/d/1iY-BLpweU6Qs95VVcEavsDPg_c0mHJ3i/view?usp=sharing",
+        "11":"https://drive.google.com/file/d/1gW2zro1I50QOI2f42c448F6AhI8T1nje/view?usp=sharing",
+        "12":"https://drive.google.com/file/d/1vIJao_n80f5Hqj-NcwVUty_iYqjg--ME/view?usp=sharing"
     }
 ]
