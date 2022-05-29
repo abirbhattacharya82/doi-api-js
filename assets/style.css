@@ -20,6 +20,7 @@
     font-size: 150%;
     display: flex;
     justify-content: center;
+    text-align: center;
 }
 .code
 {
@@ -33,4 +34,45 @@
     background-color: black;
     color: white;
     padding: 1%;
+}
+@media(max-width:800px)
+{
+    .Heading
+    {
+        font-size: 600%;
+    }
+    .Details
+    {
+        font-size: 350%;
+    }
+}
+@media(max-width:500px)
+{
+    .Heading
+    {
+        font-size: 300%;
+    }
+    .Details
+    {
+        font-size: 200%;
+    }
+}
+@media(max-width:400px)
+{
+    .Heading
+    {
+        font-size: 200%;
+    }
+    .Details
+    {
+        font-size: 150%;
+    }
+    .Implementation
+    {
+        font-size: 100%;
+    }
+    .code
+    {
+        font-size: 100%;
+    }
 }
