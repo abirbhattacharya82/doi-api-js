@@ -4,9 +4,10 @@ const port=process.env.PORT || 8000
 const imp=require('./data.json')
 const cors=require('cors');
 app.use(cors());
+app.use("/assets",express.static("assets"));
 
 app.get('/',(req,res)=>{
-    res.send("Hello World");
+    res.sendFile(__dirname+'/index.html');
 });
 
 app.get('/doi',(req,res)=>{

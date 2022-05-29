@@ -1,0 +1,36 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+.Heading
+{
+    text-align: center;
+    font-size: 700%;
+    border-bottom: 1px solid black;
+    padding: 1%;
+}
+.Details
+{
+    text-align: center;
+    font-size: 400%;
+}
+.Implementation
+{
+    font-size: 150%;
+    display: flex;
+    justify-content: center;
+}
+.code
+{
+    font-size: 150%;
+    display: flex;
+    justify-content: center;
+}
+.code .part
+{
+    margin: 1%;
+    background-color: black;
+    color: white;
+    padding: 1%;
+}
